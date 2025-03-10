@@ -117,7 +117,7 @@ To get started with the contents of this repository, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/HackersPlaybook.git
+   out of bash for now
 Read the documentation: Begin by understanding the fundamental concepts of ethical hacking, OPSEC, and secure communication in the Key Concepts section.
 
 Set up your environment: Make sure your system has the necessary tools and frameworks to execute security assessments, such as Nmap, Burp Suite, and Metasploit.
